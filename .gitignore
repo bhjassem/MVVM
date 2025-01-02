@@ -17,6 +17,6 @@
 local.properties
 /gradlew
 /gradlew.bat
-/gradle/
+/gradle/wrapper
 /gradle.properties
 /settings.gradle.kts
